@@ -1,6 +1,3 @@
-# Monte-Carlo-Analysis-for-Wind-Turbine-Site-Assessment
-Monte Carlo Analysis for Evaluating Wind Turbine Site Suitability
-
 # Monte Carlo Analysis for Wind Turbine Site Assessment  
 
 This project applies Monte Carlo simulation to assess the suitability of a location for wind turbine installation. By simulating various environmental and operational scenarios, the analysis provides insights into potential energy output and long-term reliability of the site.  
